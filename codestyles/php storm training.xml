@@ -1,0 +1,7 @@
+<code_scheme name="php storm training" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <codeStyleSettings language="PHP">
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
